@@ -1,0 +1,69 @@
+.heading {
+  font-weight: 700;
+  font-size: 4.5rem;
+  font-family: 'Ubuntu', cursive;
+  color: white;
+}
+.subheading {
+  font-weight: 300;
+  font-size: 1.7rem;
+  font-family: 'Ubuntu', cursive
+}
+.title {
+  font-weight: 700;
+  font-size: 2rem;
+  font-family: 'Ubuntu', cursive
+}
+a, a:hover {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.2rem;
+  font-family: 'Ubuntu', cursive
+}
+.ui.grid {
+  font-weight: 700;
+  font-size: 1.3rem;
+  font-family: 'Ubuntu', cursive
+}
+.pepe{
+  color: white;
+  text-decoration: none;
+  font-weight: 200;
+  font-size: 1.3rem;
+  font-family: 'Ubuntu', cursive
+}
+.contact {
+  color: #000;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.5rem;
+  font-family: 'Ubuntu', cursive
+}
+.footer {
+  color: #000;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 0.8rem;
+  font-family: 'Ubuntu', cursive
+}
+.Backg {
+  background-image: url(../../images/main-header-bg.png);
+
+  /* Full height */
+  height: 600px; 
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ui.dropdown>.text {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.2rem;
+  font-family: 'Ubuntu', cursive
+}
